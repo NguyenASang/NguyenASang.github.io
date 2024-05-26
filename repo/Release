@@ -1,0 +1,8 @@
+Origin: NguyenASang's Repo
+Label: NguyenASang's Repo
+Suite: stable
+Version: 1.1
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: NguyenASang's Repository
