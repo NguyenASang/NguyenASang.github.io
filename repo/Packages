@@ -1,0 +1,15 @@
+Package: com.nguyenasang.snmessenger
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: NguyenASang
+Installed-Size: 744
+Depends: mobilesubstrate, firmware (>= 12)
+Filename: ./debs/com.nguyenasang.snmessenger_1.0.0_iphoneos-arm.deb
+Size: 312686
+MD5: 6451da6f0e01b78e498466e13ba3cf38
+SHA1: 72e9801b50d59e843ce105fe3dbc50de43eac83c
+SHA256: 4b7e8206dc13159a6586b9cb2b8532d8e20176434a04ade303f4265b13c60c67
+Section: Tweaks
+Description: Awesome tweak for Messenger
+Author: NguyenASang
+Name: SNMessenger
