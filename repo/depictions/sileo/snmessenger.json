@@ -9,7 +9,7 @@
                 {
                     "class": "DepictionSubheaderView",
                     "useMargins": true,
-                    "title": "Compatible with iOS 12.0 +"
+                    "title": "Compatible with iOS 12.4+"
                 },
                 {
                     "class": "DepictionMarkdownView",
