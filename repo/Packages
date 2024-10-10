@@ -16,7 +16,6 @@ Name: SNMessenger
 Depiction: https://nguyenasang.github.io/repo/depictions/snmessenger.html
 Sileodepiction: https://nguyenasang.github.io/repo/depictions/sileo/snmessenger.json
 
-
 Package: com.jschiefner.advancedbrightnessslider
 Version: 1.2.1-2+debug
 Architecture: iphoneos-arm64
