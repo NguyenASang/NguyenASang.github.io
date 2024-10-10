@@ -16,17 +16,19 @@ Name: SNMessenger
 Depiction: https://nguyenasang.github.io/repo/depictions/snmessenger.html
 Sileodepiction: https://nguyenasang.github.io/repo/depictions/sileo/snmessenger.json
 
+
 Package: com.jschiefner.advancedbrightnessslider
-Version: 1.2.1
+Version: 1.2.1-2+debug
 Architecture: iphoneos-arm64
-Maintainer: NguyenASang
+Maintainer: Jonas Schiefner
 Installed-Size: 484
-Depends: mobilesubstrate, firmware (>= 12.4)
-Filename: ./debs/com.jschiefner.advancedbrightnessslider_1.2.1-2+debug_iphoneos-arm64.deb
-Size: 112686
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
+Filename: ./packages/com.jschiefner.advancedbrightnessslider_1.2.1-2+debug_iphoneos-arm64.deb
+Size: 45534
+MD5sum: 21e24a7fb59a93831965fc0137dca5e6
+SHA1: 6f10ba0f2fc1901acd444ee90be388c393b4713e
+SHA256: 3c570f8f1af976de95fe815b4cb3fb9677b6ac519e8de5f939bb3755d559191d
 Section: Tweaks
-Description: A fix (testing purpose only).
-Author: NguyenASang
-Name: AdvBright
-Depiction: https://nguyenasang.github.io/repo/depictions/snmessenger.html
-Sileodepiction: https://nguyenasang.github.io/repo/depictions/sileo/snmessenger.json
+Description: Test only
+Author: Jonas Schiefner
+Name: AdvancedBrightnessSlider
