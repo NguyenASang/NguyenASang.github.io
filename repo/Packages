@@ -16,8 +16,8 @@ Name: SNMessenger
 Depiction: https://nguyenasang.github.io/repo/depictions/snmessenger.html
 Sileodepiction: https://nguyenasang.github.io/repo/depictions/sileo/snmessenger.json
 
-Package: com.nguyenasang.snmessenger
-Version: 1.0.0
+Package: com.jschiefner.advancedbrightnessslider
+Version: 1.2.1
 Architecture: iphoneos-arm64
 Maintainer: NguyenASang
 Installed-Size: 484
@@ -27,6 +27,6 @@ Size: 112686
 Section: Tweaks
 Description: A fix (testing purpose only).
 Author: NguyenASang
-Name: SNMessenger
+Name: AdvBright
 Depiction: https://nguyenasang.github.io/repo/depictions/snmessenger.html
 Sileodepiction: https://nguyenasang.github.io/repo/depictions/sileo/snmessenger.json
