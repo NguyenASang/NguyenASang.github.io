@@ -4,7 +4,7 @@ Architecture: iphoneos-arm64 iphoneos-arm64e
 Maintainer: NguyenASang
 Installed-Size: 744
 Depends: mobilesubstrate, firmware (>= 12.4)
-Filename: ./debs/com.nguyenasang.snmessenger_1.0.0_iphoneos-arm.deb
+Filename: ./packages/com.nguyenasang.snmessenger_1.0.0_iphoneos-arm.deb
 Size: 312686
 MD5: 6451da6f0e01b78e498466e13ba3cf38
 SHA1: 72e9801b50d59e843ce105fe3dbc50de43eac83c
