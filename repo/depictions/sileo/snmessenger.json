@@ -22,12 +22,13 @@
                             "url": "https://nguyenasang.github.io/repo/depictions/images/SNMessenger/Settings_2.png",
                             "accessibilityText": "Settings_2"
                         }
-                    ]
+                    ],
+                    "itemSize": "{160,284}"
                 },
                 {
                     "class": "DepictionSubheaderView",
                     "useMargins": true,
-                    "title": "Compatible with iOS 12.4+"
+                    "title": "Compatible with iOS 12.4 +"
                 },
                 {
                     "class": "DepictionMarkdownView",
