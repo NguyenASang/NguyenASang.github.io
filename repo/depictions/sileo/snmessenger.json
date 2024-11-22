@@ -23,7 +23,7 @@
                             "accessibilityText": "Settings_2"
                         }
                     ],
-                    "itemSize": "{160,350}"
+                    "itemSize": "{200,350}"
                 },
                 {
                     "class": "DepictionSubheaderView",
