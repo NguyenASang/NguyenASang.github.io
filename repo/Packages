@@ -1,33 +1,38 @@
 Package: com.nguyenasang.snmessenger
 Version: 1.0.0
-Architecture: iphoneos-arm64 iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: NguyenASang
-Installed-Size: 744
+Installed-Size: 844
 Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Provides: com.haoict.messengernoads
 Filename: ./packages/com.nguyenasang.snmessenger_1.0.0_iphoneos-arm.deb
-Size: 312686
-MD5: 6451da6f0e01b78e498466e13ba3cf38
-SHA1: 72e9801b50d59e843ce105fe3dbc50de43eac83c
-SHA256: 4b7e8206dc13159a6586b9cb2b8532d8e20176434a04ade303f4265b13c60c67
+Size: 653794
+MD5sum: f9b49e0a206765f29f4769e7d684cbc6
+SHA1: 0f193f8dfc2d609b1a997bda0473f0b9eea2f283
+SHA256: 42591a49932b757ebbef69654ee80c8ffb3a271e7f15f3485248fb8f68593f64
 Section: Tweaks
 Description: A full-featured tweak for Messenger.
 Author: NguyenASang
 Name: SNMessenger
-Depiction: https://nguyenasang.github.io/repo/depictions/snmessenger.html
-Sileodepiction: https://nguyenasang.github.io/repo/depictions/sileo/snmessenger.json
 
-Package: com.jschiefner.advancedbrightnessslider
-Version: 1.2.1-2+debug
+Package: com.nguyenasang.snmessenger
+Version: 1.0.0
 Architecture: iphoneos-arm64
-Maintainer: Jonas Schiefner
-Installed-Size: 484
-Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.17)
-Filename: ./packages/com.jschiefner.advancedbrightnessslider_1.2.1-2+debug_iphoneos-arm64.deb
-Size: 45534
-MD5sum: 21e24a7fb59a93831965fc0137dca5e6
-SHA1: 6f10ba0f2fc1901acd444ee90be388c393b4713e
-SHA256: 3c570f8f1af976de95fe815b4cb3fb9677b6ac519e8de5f939bb3755d559191d
+Maintainer: NguyenASang
+Installed-Size: 844
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Provides: com.haoict.messengernoads
+Filename: ./packages/com.nguyenasang.snmessenger_1.0.0_iphoneos-arm64.deb
+Size: 653760
+MD5sum: 6b2409f49ae7f82a174cfdda1f3836f4
+SHA1: 0f6df5c56e31b3bf5b3b3e8e37f955368c596b10
+SHA256: 3442c5f2b315435cd115fc27e0de2d4b19216a920ee64c4c14ab925c1633265b
 Section: Tweaks
-Description: Test only
-Author: Jonas Schiefner
-Name: AdvancedBrightnessSlider
+Description: A full-featured tweak for Messenger.
+Author: NguyenASang
+Name: SNMessenger
+

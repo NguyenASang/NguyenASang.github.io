@@ -7,6 +7,24 @@
             "tabname": "Details",
             "views": [
                 {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 14,
+                    "screenshots": [
+                        {
+                          "url": "https://nguyenasang.github.io/repo/depictions/images/SNMessenger/Access_Settings.png",
+                          "accessibilityText": "Access Settings"
+                        },
+                        {
+                            "url": "https://nguyenasang.github.io/repo/depictions/images/SNMessenger/Settings_1.png",
+                            "accessibilityText": "Settings_1"
+                        },
+                        {
+                            "url": "https://nguyenasang.github.io/repo/depictions/images/SNMessenger/Settings_2.png",
+                            "accessibilityText": "Settings_2"
+                        }
+                    ]
+                },
+                {
                     "class": "DepictionSubheaderView",
                     "useMargins": true,
                     "title": "Compatible with iOS 12.4+"
