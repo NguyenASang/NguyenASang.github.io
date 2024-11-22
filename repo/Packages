@@ -16,6 +16,8 @@ Section: Tweaks
 Description: A full-featured tweak for Messenger.
 Author: NguyenASang
 Name: SNMessenger
+Depiction: https://nguyenasang.github.io/repo/depictions/snmessenger.html
+Sileodepiction: https://nguyenasang.github.io/repo/depictions/sileo/snmessenger.json
 
 Package: com.nguyenasang.snmessenger
 Version: 1.0.0
@@ -35,4 +37,6 @@ Section: Tweaks
 Description: A full-featured tweak for Messenger.
 Author: NguyenASang
 Name: SNMessenger
+Depiction: https://nguyenasang.github.io/repo/depictions/snmessenger.html
+Sileodepiction: https://nguyenasang.github.io/repo/depictions/sileo/snmessenger.json
 
