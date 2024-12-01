@@ -44,19 +44,19 @@
             "views": [
                 {
                     "class": "DepictionSubheaderView",
-                    "title": "Version 1.0.0"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "Initial release"
-                },
-                {
-                    "class": "DepictionSubheaderView",
                     "title": "Version 1.0.1"
                 },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "- Fix duplicate Settings icon (#2)\n- Fix `Disable typing indicator` option doesn't work in inbox\n- Fix `Collapsing keyboard after entering chat` option doesn't work"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "Version 1.0.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial release"
                 }
             ]
         }
