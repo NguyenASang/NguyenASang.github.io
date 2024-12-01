@@ -40,3 +40,45 @@ Name: SNMessenger
 Depiction: https://nguyenasang.github.io/repo/depictions/snmessenger.html
 Sileodepiction: https://nguyenasang.github.io/repo/depictions/sileo/snmessenger.json
 
+Package: com.nguyenasang.snmessenger
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: NguyenASang
+Installed-Size: 844
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Provides: com.haoict.messengernoads
+Filename: ./packages/com.nguyenasang.snmessenger_1.0.1_iphoneos-arm.deb
+Size: 653626
+MD5sum: ae39b2cbf6da1edc793a4be51cd13253
+SHA1: d2311de18e7bc87170d66e79e5e6f68fbca9817b
+SHA256: 531d6da168bf1e88c9676f3525683717d936b272bbae03eba2d6c9a2dae73ab8
+Section: Tweaks
+Description: A full-featured tweak for Messenger.
+Author: NguyenASang
+Name: SNMessenger
+Depiction: https://nguyenasang.github.io/repo/depictions/snmessenger.html
+Sileodepiction: https://nguyenasang.github.io/repo/depictions/sileo/snmessenger.json
+
+Package: com.nguyenasang.snmessenger
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: NguyenASang
+Installed-Size: 844
+Depends: mobilesubstrate, firmware (>= 12.4)
+Conflicts: com.haoict.messengernoads
+Replaces: com.haoict.messengernoads
+Provides: com.haoict.messengernoads
+Filename: ./packages/com.nguyenasang.snmessenger_1.0.1_iphoneos-arm64.deb
+Size: 653700
+MD5sum: e925f59c89d4652d39c501ce8e3f7484
+SHA1: 62687bfac32e0630f5faadf8746aa522b6222242
+SHA256: 63f888503de71b432f3fa40bd0286762d970cd071ff0f03839d3a7e84932f6bc
+Section: Tweaks
+Description: A full-featured tweak for Messenger.
+Author: NguyenASang
+Name: SNMessenger
+Depiction: https://nguyenasang.github.io/repo/depictions/snmessenger.html
+Sileodepiction: https://nguyenasang.github.io/repo/depictions/sileo/snmessenger.json
+
