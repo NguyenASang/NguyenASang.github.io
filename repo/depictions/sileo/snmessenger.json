@@ -48,7 +48,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fix duplicate Settings icon (#2)\n- Fix ```Disable typing indicator``` option doesn't work in inbox\n- Fix ```Collapsing keyboard after entering chat``` option doesn't work"
+                    "markdown": "- Fix duplicate Settings icon (#2)\n- Fix \"Disable typing indicator\" option doesn't work in inbox\n- Fix \"Collapsing keyboard after entering chat\" option doesn't work"
                 },
                 {
                     "class": "DepictionSubheaderView",
